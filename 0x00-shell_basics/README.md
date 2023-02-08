@@ -12,3 +12,4 @@ script that changes the working directory to the previous one
 script that lists all files (even ones beginning with period character, which are normally hidden) in all directories in long format
 script that prints type of file
 script that creates symbolic link
+script that copies all the HTML files from the current working directory to the parent of the working directory
