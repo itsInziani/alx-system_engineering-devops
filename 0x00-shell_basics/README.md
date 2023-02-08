@@ -14,3 +14,4 @@ script that prints type of file
 script that creates symbolic link
 script that copies all the HTML files from the current working directory to the parent of the working directory
 script that moves all files beginning with an uppercase letter to directory
+script that deletes all files in the current working directory that end with the character ~
