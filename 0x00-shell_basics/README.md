@@ -5,3 +5,4 @@ script that displays current directory contents in a long format
 script that displays current directory contents including hidden files (starting with .). in long format
 script that displays current directory contents in long format,with user IDs displayed numerically and hidden files starting with (.)
 script that creates one directory into another
+script that moves one file into another
