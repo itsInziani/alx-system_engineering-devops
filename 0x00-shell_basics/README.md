@@ -7,3 +7,4 @@ script that displays current directory contents in long format,with user IDs dis
 script that creates one directory into another
 script that moves one file into another
 script that deletes a file
+script that deletes one directory in another
